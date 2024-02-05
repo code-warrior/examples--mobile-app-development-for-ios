@@ -58,7 +58,7 @@ theme: plain jane, 1
 
 * Variables can have a value associated with them, and those values can change, or vary
 * Constants, once set, cannot be changed
-* We use keywords `var` and `let` to declare variables and constants
+* We use keywords `var` and `let` to declare variables and constants, respectively
 * Both keywords should be familiar to JavaScript programmers
 
 ---
@@ -69,7 +69,7 @@ theme: plain jane, 1
 
 * Use the keyword `let` to initiate constants
 * `let MAX = 10`
-* Try to assign a different value to the `MAX` constant: `let MAX = 5`
+* Try to assign a different value to the `MAX` constant: `MAX = 5`
 * An error occurs: `error: cannot assign to value: 'MAX' is a 'let' constant`
 
 ---
