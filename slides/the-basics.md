@@ -172,7 +172,7 @@ See examples repo
 * Comments are ignored by the Swift compiler
 * Double forward slashes (`//`) are used for single-line comments
 * A forward slash and asterisk (`/*`) begins a multi-line comment
-* A back slash and asterisk (`\*`) ends a multi-line comment
+* An asterisk and a backslash (`*/`) ends a multi-line comment
 
 ---
 

@@ -2,7 +2,6 @@ let PI = 3.14159
 let ANOTHER_PI = 3 + 0.14159
 var fraction: Float = 3.2
 
-
 print(PI)
 print(fraction)
 
