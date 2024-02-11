@@ -369,3 +369,13 @@ var x = 10; var y = 20; var sum = x + y
 * “Tuples are particularly useful as the return values of functions...By returning a tuple with two distinct values, each of a different type, the function provides more useful information about its outcome than if it could only return a single value of a single type.”
 
 ---
+
+## Optionals
+
+* “You use optionals in situations where a value may be absent.”
+* “An optional represents two possibilities: Either there is a value, and you can unwrap the optional to access that value, or there isn’t a value at all.”
+* “Swift’s optionals let you indicate the absence of a value for any type at all, without the need for special constants.”
+* An optional `Int` is written as `Int?`. The question mark indicates that the value it contains is optionally an `Int` or no value at all.
+* “If a constant or variable in your code needs to work with the absence of a value under certain conditions, always declare it as an optional value of the appropriate type.”
+
+---
