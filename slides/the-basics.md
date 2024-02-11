@@ -359,3 +359,13 @@ var x = 10; var y = 20; var sum = x + y
 * See the example `the-basics/Booleans.swift`
 
 ---
+
+## Tuples
+
+* “Tuples group multiple values into a single compound value.”
+* “The values within a tuple can be of any type and don’t have to be of the same type as each other.”
+* “You can create tuples from any permutation of types, and they can contain as many different types as you like.”
+* “There’s nothing stopping you from having a tuple of type (Int, Int, Int), or (String, Bool), or indeed any other permutation you require”
+* “Tuples are particularly useful as the return values of functions...By returning a tuple with two distinct values, each of a different type, the function provides more useful information about its outcome than if it could only return a single value of a single type.”
+
+---
