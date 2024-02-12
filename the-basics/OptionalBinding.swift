@@ -10,6 +10,7 @@ if let serverResponse = Int(serverResponseCode) {
   print(serverResponse)
 }
 
+// Unwrap the optional, assigned the unwrapped value to “response”
 let response = Int(serverResponseCode)
 
 if let response = response {
