@@ -379,3 +379,15 @@ var x = 10; var y = 20; var sum = x + y
 * “If a constant or variable in your code needs to work with the absence of a value under certain conditions, always declare it as an optional value of the appropriate type.”
 
 ---
+
+## Forced Unwrapping
+
+* An `if` statement can be used to check whether an optional contains a value by comparing to `nil`.
+* Recall that `nil` essentially means, “*nothing here.*”
+* Once you know that the variable/constant contains a valid value, you can access it with the bang (`!`) character.
+* Per the book, `!` says, “I know that this optional definitely has a value; please use it.”
+* This procedure — using `!` — is known as *forced unwrapping*.
+* **Note**: *Not* using `!` in the interpolation syntax generates a debug description.
+* See the example `the-basics/ForcedUnwrapping.swift`
+
+---
