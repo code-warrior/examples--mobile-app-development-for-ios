@@ -13,9 +13,15 @@ if let serverResponse = Int(serverResponseCode) {
 // Unwrap the optional, assigned the unwrapped value to “response”
 let response = Int(serverResponseCode)
 
-if let response = response {
+print("The constant “response” before the if is \(response)")
+
+if var response = response {
   print(response)
+  response = 30
+  print("The constant “response” inside the if is \(response)")
 }
+
+print("The constant “response” after the if is \(response)")
 
 // Lines 15–17 are equivalent to
 if let response {
