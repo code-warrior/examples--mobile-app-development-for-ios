@@ -391,3 +391,11 @@ var x = 10; var y = 20; var sum = x + y
 * See the example `the-basics/ForcedUnwrapping.swift`
 
 ---
+
+## Optional Binding
+
+* “You use optional binding to find out whether an optional contains a value, and if so, to make that value available as a temporary constant or variable.”
+* Use it with `if` and `while` statement to check for a value inside an optional
+* See the example `the-basics/OptionalBinding.swift`
+
+---
