@@ -7,7 +7,7 @@ print(type(of: facultyMember)) // Prints “(Int, String)”
 print(facultyMember)           // Prints “(12345678, "Alan Turing")”
 print("\(facultyMemberName)’s faculty member ID is \(facultyMemberID)")
 print("Using index numbers with dots, the number in the “facultyMember” tuple can be retrieved with facultyMember.0: \(facultyMember.0)")
-print("The same can be done for the name portion of the tuple with facultyMember.1: \(facultyMember.0)")
+print("The same can be done for the name portion of the tuple with facultyMember.1: \(facultyMember.1)")
 print(justTheID)
 print(justTheName)
 
