@@ -104,3 +104,11 @@ theme: plain jane, 1
 * See `code/basic-operators/08-Comparison.swift`
 
 ---
+
+## Basic Operators — Ternary Conditional Operator
+
+* Also like most languages, Swift includes a ternary conditional operator: `q ? ifQIsTrue : ifQIsFalse`
+* It’s a shortcut version of `if...else`
+* See `code/basic-operators/09-TernaryConditional.swift`
+
+---
