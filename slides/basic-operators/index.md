@@ -18,3 +18,11 @@ theme: plain jane, 1
 * Or, `if passwordCorrect && passwordCurrent`, which uses the Boolean AND operator (`&&`)
 
 ---
+
+## Basic Operators — Terminology
+
+* *Unary* operators operate on a single operand, or target, such as forced unwrapping with the bang character, `convertedNumber!`, which is known as a *postfix* unary operator. You may also have *prefix* unary operators, such as `!c`
+* *Binary* operators operate on two operands, such as `3 + 4`, for example. The addition binary operator is known as *infix*, because it appears between the `3` and `4` operands
+* *Ternary* operators operate on three operands. Like so many other languages, Swift has only one ternary operator: `a ? b : c`. It’s also known as the conditional operator
+
+---
