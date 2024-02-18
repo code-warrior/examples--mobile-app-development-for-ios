@@ -33,5 +33,6 @@ theme: plain jane, 1
 * For example, `var x = 10` initializes `x` to the value `10`
 * And `x = 30` updates the already-initializes `x` to `30`
 * The assignment operator *associates* from right to left
+* See `code/basic-operators/01-Assignment.swift`
 
 ---
