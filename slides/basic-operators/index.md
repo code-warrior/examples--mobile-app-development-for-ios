@@ -49,3 +49,15 @@ theme: plain jane, 1
 * See `code/basic-operators/03-Concatenation.swift`
 
 ---
+
+## Basic Operators — Arithmetic Operators (Remainder)
+
+* The remainder operator (`%`) works out how many multiples of an operand will fit in another, returning the remainder
+* For example,
+    * `0 % 3 = 0`
+    * `1 % 3 = 1`
+    * `2 % 3 = 2`
+    * `3 % 3 = 0`
+    * `4 % 3 = 1`
+* In essence, `a % b = a` for all `a` less than `b`; `a % b = 0` if `a` == `b`; and, the remainder operator works as intended for all `a` greater than `b`
+* See `code/basic-operators/04-Remainder.swift`
