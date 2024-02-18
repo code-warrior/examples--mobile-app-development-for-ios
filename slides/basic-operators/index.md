@@ -61,3 +61,14 @@ theme: plain jane, 1
     * `4 % 3 = 1`
 * In essence, `a % b = a` for all `a` less than `b`; `a % b = 0` if `a` == `b`; and, the remainder operator works as intended for all `a` greater than `b`
 * See `code/basic-operators/04-Remainder.swift`
+
+---
+
+## Basic Operators — Arithmetic Operators (Unary Minus Operator)
+
+* Adding a minus sign to a value yields the *unary minus operator*
+* `let negativeOne = -3`
+* The minus sign cannot have any white space between it and the value
+* See `code/basic-operators/05-UnaryMinus.swift`
+
+---
