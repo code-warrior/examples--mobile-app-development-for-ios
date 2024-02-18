@@ -79,3 +79,13 @@ theme: plain jane, 1
 * See `code/basic-operators/06-UnaryPlus.swift`
 
 ---
+
+## Basic Operators — Compound Assignment Operators
+
+* The *compound assignment operators* combine assignment (`=`) with another operation. It’s a shortcut.
+* For example,
+    * `a += 2`, which is equal to `a = a + 2`
+    * `a += b`, which is equal to `a = a + b`
+* See `code/basic-operators/07-CompountAssignmentOperators.swift`
+
+---
