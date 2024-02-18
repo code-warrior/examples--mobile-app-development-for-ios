@@ -72,3 +72,10 @@ theme: plain jane, 1
 * See `code/basic-operators/05-UnaryMinus.swift`
 
 ---
+
+## Basic Operators — Arithmetic Operators (Unary Plus Operator)
+
+* The *unary plus operator* doesn’t do anything, but is available to provide symmetry when using the unary minus operator
+* See `code/basic-operators/06-UnaryPlus.swift`
+
+---
