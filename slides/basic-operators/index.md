@@ -89,3 +89,18 @@ theme: plain jane, 1
 * See `code/basic-operators/07-CompountAssignmentOperators.swift`
 
 ---
+
+## Basic Operators — Comparison Operators
+
+* Like most languages, Swift supports the following comparison operators:
+    * Equality (`a == b`)
+    * Not equals (`a != b`)
+    * Greater than (`a > b`)
+    * Less than (`a < b`)
+    * Greater than or equal (`a >= b`)
+    * Less than or equal (`a <= b`)
+* Each evaluates to a Boolean result
+* You may also compare tuples, but each type must match
+* See `code/basic-operators/08-Comparison.swift`
+
+---
