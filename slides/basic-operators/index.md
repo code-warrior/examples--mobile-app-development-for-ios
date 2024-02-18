@@ -36,3 +36,16 @@ theme: plain jane, 1
 * See `code/basic-operators/01-Assignment.swift`
 
 ---
+
+## Basic Operators — Arithmetic Operators
+
+* There are four standard *arithmetic operators*:
+    * Addition (`+`)
+    * Subtraction (`-`)
+    * Multiplication (`*`)
+    * Division (`/`)
+* See `code/basic-operators/02-Arithmetic.swift`
+* The `+` operator can also be used for concatenation
+* See `code/basic-operators/03-Concatenation.swift`
+
+---
