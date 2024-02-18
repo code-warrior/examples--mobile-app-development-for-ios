@@ -26,3 +26,12 @@ theme: plain jane, 1
 * *Ternary* operators operate on three operands. Like so many other languages, Swift has only one ternary operator: `a ? b : c`. It’s also known as the conditional operator
 
 ---
+
+## Basic Operators — Assignment Operator
+
+* The *assignment operator* initializes or updates the values of the operand on the left
+* For example, `var x = 10` initializes `x` to the value `10`
+* And `x = 30` updates the already-initializes `x` to `30`
+* The assignment operator *associates* from right to left
+
+---
