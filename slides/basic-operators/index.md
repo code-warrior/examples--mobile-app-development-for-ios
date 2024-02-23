@@ -112,3 +112,11 @@ theme: plain jane, 1
 * See `code/basic-operators/09-TernaryConditional.swift`
 
 ---
+
+## Nil-Coalescing Operator
+
+* “The *nil-coalescing* operator (`a ?? b`) unwraps an optional `a` if it contains a value, or returns a default value `b` if `a` is nil.”
+* “The expression `a` is *always* of an optional type. The expression `b` *must* match the type that’s stored inside `a`.”
+* See `code/basic-operators/10-NilCoalescingOperator.swift`
+
+---
