@@ -150,6 +150,6 @@ theme: plain jane, 1
 
 * The *half-open range* operator (`a..<b`) defines a range between `a`, inclusive, and `b`, exclusive
 * Again, `a` cannot be greater than `b`
-* See `code/basic-operators/12-HalfOpenRangeOperator.swift`
+* See `code/basic-operators/13-OneSidedRangeOperator.swift`
 
 ---
