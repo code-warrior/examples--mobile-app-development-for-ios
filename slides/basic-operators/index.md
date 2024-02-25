@@ -153,3 +153,12 @@ theme: plain jane, 1
 * See `code/basic-operators/13-OneSidedRangeOperator.swift`
 
 ---
+
+## Logical Operators
+
+* Swift supports the three common logical operators
+    * `NOT`: `!a`
+    * `AND`: `a && b`
+    * `OR`: `a || b`
+
+---
