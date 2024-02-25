@@ -113,10 +113,43 @@ theme: plain jane, 1
 
 ---
 
-## Nil-Coalescing Operator
+## Basic Operators — Nil-Coalescing Operator
 
 * “The *nil-coalescing* operator (`a ?? b`) unwraps an optional `a` if it contains a value, or returns a default value `b` if `a` is nil.”
 * “The expression `a` is *always* of an optional type. The expression `b` *must* match the type that’s stored inside `a`.”
 * See `code/basic-operators/10-NilCoalescingOperator.swift`
+
+---
+
+## Basic Operators — Range Operators
+
+* Swift includes various *range operators* that are shortcuts for expressing a range of values:
+    * The *closed range* operator
+    * The *half-open range* operator
+    * And the *one-sided range* operator
+
+---
+
+## Basic Operators — Closed Range Operator
+
+* The *closed range operator* (`a...b`) defines a range between `a` and `b`, inclusive
+* `a` cannot be greater than `b`
+* See `code/basic-operators/11-ClosedRangeOperator.swift`
+
+---
+
+## Basic Operators — Half-Open Range Operator
+
+* The *half-open range* operator (`a..<b`) defines a range between `a`, inclusive, and `b`, exclusive
+* Again, `a` cannot be greater than `b`
+* See `code/basic-operators/12-HalfOpenRangeOperator.swift`
+
+---
+
+## Basic Operators — One-Sided Range Operator
+
+* The *half-open range* operator (`a..<b`) defines a range between `a`, inclusive, and `b`, exclusive
+* Again, `a` cannot be greater than `b`
+* See `code/basic-operators/12-HalfOpenRangeOperator.swift`
 
 ---
