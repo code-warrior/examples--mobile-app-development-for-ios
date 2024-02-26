@@ -166,6 +166,6 @@ theme: plain jane, 1
 ## Logical Operators — The `NOT (!)` Operator
 
 * The `NOT` operator (`!`) inverts a Boolean value: `true` becomes `false`, and vice versa
-* See `code/basic-operators/14-LogicalNotOperator.swif  t`
+* See `code/basic-operators/14-LogicalNotOperator.swift`
 
 ---
