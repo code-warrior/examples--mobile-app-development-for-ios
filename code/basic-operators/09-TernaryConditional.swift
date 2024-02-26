@@ -1,12 +1,12 @@
-var modalShowing = true
-var bodyPosition = (modalShowing ? "fixed" : "relative")
+var modalIsShowing = true
+var bodyPosition = (modalIsShowing ? "fixed" : "relative")
 
-print("The modal is showing, \(modalShowing); thus, the position of the body is \(bodyPosition)")
+print("The modal is showing, \(modalIsShowing); thus, the position of the body is \(bodyPosition)")
 
-if modalShowing {
+if modalIsShowing {
   bodyPosition = "fixed"
 } else {
   bodyPosition = "relative"
 }
 
-print("The modal is showing, \(modalShowing); thus, the position of the body is \(bodyPosition)")
+print("The modal is showing, \(modalIsShowing); thus, the position of the body is \(bodyPosition)")
