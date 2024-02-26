@@ -185,3 +185,12 @@ theme: plain jane, 1
 * See `code/basic-operators/16-LogicalOrOperator.swift`
 
 ---
+
+## Logical Operators — Combining Logical Operators
+
+* It’s possible to combine logical operators
+* `&&` and `||` associate left-to-right, meaning that leftmost expressions are evaluated first
+* When you combine operators, it’s helpful to use redundant, or explicit, parentheses for readability
+* See `code/basic-operators/17-CombiningLogicalOperators.swift`
+
+---
