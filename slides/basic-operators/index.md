@@ -169,3 +169,11 @@ theme: plain jane, 1
 * See `code/basic-operators/14-LogicalNotOperator.swift`
 
 ---
+
+## Logical Operators — The `AND (&&)` Operator
+
+* The `AND` operator (`&&`) evaluates expressions to `true` if both operands are true
+* If the first operand is `false`, then the second is never evaluated. This is called *short-circuit evaluation*
+* See `code/basic-operators/15-LogicalAndOperator.swift`
+
+---
