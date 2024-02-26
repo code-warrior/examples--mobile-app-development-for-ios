@@ -177,3 +177,11 @@ theme: plain jane, 1
 * See `code/basic-operators/15-LogicalAndOperator.swift`
 
 ---
+
+## Logical Operators — The `OR (||)` Operator
+
+* The `OR` operator (`||`) evaluates expressions to `true` if either operand is true
+* If the first operand is `true`, then the second is never evaluated. Again, this is called *short-circuit evaluation*
+* See `code/basic-operators/16-LogicalOrOperator.swift`
+
+---
